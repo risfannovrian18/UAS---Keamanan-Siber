@@ -75,4 +75,4 @@ Open Web Application Security Project (OWASP) adalah organisasi nirlaba yang ber
 Secara keseluruhan, OWASP menyediakan kerangka kerja yang luas dan beragam untuk membantu organisasi dan pengembang dalam memahami, mencegah, dan mengatasi risiko keamanan perangkat lunak. Oleh karena itu, banyak pihak yang memandang OWASP sebagai acuan utama dalam konteks keamanan perangkat lunak.
 
 ### 6. Link Badge Cyber Security
-[Introduction to Cyber Security](http://https://www.credly.com/badges/3a3312eb-6a19-4b42-99bc-7df38ff726f4/public_url)
+[Introduction to Cyber Security](https://www.credly.com/badges/3a3312eb-6a19-4b42-99bc-7df38ff726f4/public_url)
