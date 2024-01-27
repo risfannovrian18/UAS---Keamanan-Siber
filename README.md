@@ -69,6 +69,9 @@ Open Web Application Security Project (OWASP) adalah organisasi nirlaba yang ber
 6. **Pembaruan dan Penyelarasan Dengan Tren Keamanan:**
    - OWASP secara teratur memperbarui sumber daya dan pedoman mereka untuk mencerminkan tren terbaru dalam keamanan perangkat lunak. Ini membantu organisasi untuk selalu berada di garis depan dalam melindungi aplikasi mereka dari ancaman keamanan yang berkembang.
 
+### 6. Link Badge Cyber Security
+[Introduction to Cyber Security](http://https://www.credly.com/badges/3a3312eb-6a19-4b42-99bc-7df38ff726f4/public_url)
+
 7. **Pendekatan Praktis dan Implementatif:**
    - Panduan dan proyek-proyek OWASP sering kali memberikan solusi dan langkah-langkah praktis yang dapat diimplementasikan oleh pengembang perangkat lunak. Hal ini membuatnya berguna dalam situasi dunia nyata.
 
